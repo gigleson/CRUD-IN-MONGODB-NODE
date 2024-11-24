@@ -1,7 +1,4 @@
 import mongoose from "mongoose" 
-
-
-
  const booksSchema = mongoose.Schema(
     {
         title:{
